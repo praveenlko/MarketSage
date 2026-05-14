@@ -2,3 +2,6 @@ fastapi
 uvicorn
 yfinance
 pandas
+streamlit
+firebase-admin
+requests
